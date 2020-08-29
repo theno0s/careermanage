@@ -1,0 +1,38 @@
+-- 경력 내역 정리
+
+2020/08/23
+
+프로젝트 진행 사항
+
+사용 가능 언어 : Java(상), JavaScript(상)
+DB Connecter : Mybatis - JDBC(상), JPA - Hibernate(중)
+프론트 엔드 : Jquery(상), VanillaJS(ES6)(중)
+DB : OracleDB, MySql(MariaDB)
+OS : Windows, linux(CentOS7)
+
+9. 센드가드 : 2020.01.20~
+   └ 사용 기술 : Java 8, MySql(MariaDB), JavaScript & Jquery, Mybatis & JPA, SpringBoot(Maven)
+
+8. 대한병원행정협회 : 2019.11.19~2020.01.20
+   └ 사용 기술 : Java 8, MySql, JavaScript & Jquery, Mybatis, SpringBoot(Maven)
+
+7. 중앙관제 : 2019.09.24~
+   └ 사용 기술 : Java 8, MySql(MariaDB), JavaScript(ES6 & Vanilla JS), Mybatis & JPA, SpringBoot(gradle)
+
+6. 리시브가드 : 2019.05.07~
+   └ 사용 기술 : Java 8, MsSql Server, JavaScript & Jquery, Mybatis, SpringBoot(Maven) 
+
+5. 물리치료사 중앙회 : 2019.03.26~2019.05.24
+   └ 사용 기술 : Java 8, Oracle, JavaScript & Jquery, Mybatis, SpringBoot(Maven)
+
+4. 다솔 : 2019.01.24~2019.05.09
+   └ 사용 기술 : Java 8, MySql, JavaScript & Jquery, Mybatis, SpringBoot(Maven)
+
+3. 금담 : 2018.11.30~2019.01.24
+   └ 사용 기술 : Java 8, MySql, JavaScript & Jquery, Mybatis, SpringBoot(Maven)
+
+2. 성수 수제화 : 2018.10.25~2019.01.15
+   └ 사용 기술 : Java 8, MySql, JavaScript & Jquery, Mybatis, Spring framework(전자정부프레임워크)
+
+1. 물리치료사 교육센터 : 2018.09.05~2018.12.31
+   └ 사용 기술 : Java 8, Oracle DB, JavaScript & Jquery, Mybatis, SpringBoot(Maven)
